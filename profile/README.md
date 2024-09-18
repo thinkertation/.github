@@ -14,11 +14,7 @@ At Thinkertation, we believe in the power of collaboration to solve the most pre
 - 🌱 **Sustainable Impact**: Focused on creating solutions that benefit communities and the environment.
 
  
-
-## 🌍 Join Our Mission
-
-We're always looking for passionate individuals and teams to join us in our mission to make a global impact. Whether you're an innovator, developer, or strategist, your ideas are welcome here. Together, we can shape the future.
-
+ 
 - **Contact Us**: [Email](mailto:steve@thinkertation.com)
   
  
